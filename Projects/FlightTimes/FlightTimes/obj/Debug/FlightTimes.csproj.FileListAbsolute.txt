@@ -1,0 +1,7 @@
+C:\Users\vdigumber_ad\Desktop\Projects\FlightTimes\FlightTimes\obj\Debug\FlightTimes.csprojAssemblyReference.cache
+C:\Users\vdigumber_ad\Desktop\Projects\FlightTimes\FlightTimes\obj\Debug\FlightTimes.csproj.CoreCompileInputs.cache
+C:\Users\vdigumber_ad\Desktop\Projects\FlightTimes\FlightTimes\bin\Debug\FlightTimes.exe.config
+C:\Users\vdigumber_ad\Desktop\Projects\FlightTimes\FlightTimes\bin\Debug\FlightTimes.exe
+C:\Users\vdigumber_ad\Desktop\Projects\FlightTimes\FlightTimes\bin\Debug\FlightTimes.pdb
+C:\Users\vdigumber_ad\Desktop\Projects\FlightTimes\FlightTimes\obj\Debug\FlightTimes.exe
+C:\Users\vdigumber_ad\Desktop\Projects\FlightTimes\FlightTimes\obj\Debug\FlightTimes.pdb

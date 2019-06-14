@@ -1,0 +1,7 @@
+C:\Users\vdigumber_ad\Desktop\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\vdigumber_ad\Desktop\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\vdigumber_ad\Desktop\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\vdigumber_ad\Desktop\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csprojAssemblyReference.cache
+C:\Users\vdigumber_ad\Desktop\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\vdigumber_ad\Desktop\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\vdigumber_ad\Desktop\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
