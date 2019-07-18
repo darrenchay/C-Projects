@@ -1,0 +1,10 @@
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\obj\Debug\DemoFlights.csprojAssemblyReference.cache
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\obj\Debug\DemoFlights.Form1.resources
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\obj\Debug\DemoFlights.Properties.Resources.resources
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\obj\Debug\DemoFlights.csproj.GenerateResource.cache
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\obj\Debug\DemoFlights.csproj.CoreCompileInputs.cache
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\bin\Debug\DemoFlights.exe.config
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\bin\Debug\DemoFlights.exe
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\bin\Debug\DemoFlights.pdb
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\obj\Debug\DemoFlights.exe
+C:\Users\vdigumber_ad\Desktop\Projects\DemoFlights\DemoFlights\obj\Debug\DemoFlights.pdb
